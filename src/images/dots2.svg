@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="8" viewBox="0 0 22 8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00e2bd;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Composite_Path" data-name="Composite Path" class="cls-1" d="M1082.5,6280a4,4,0,1,0,4-4A4,4,0,0,0,1082.5,6280Zm14,0a4,4,0,1,0,4-4A4,4,0,0,0,1096.5,6280Z" transform="translate(-1082.5 -6276)"/>
+</svg>
