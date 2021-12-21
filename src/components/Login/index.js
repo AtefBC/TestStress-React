@@ -25,7 +25,7 @@ function Login() {
     <LoginContainer>
       <LoginLogoWrapper>
         <LoginLogo src={LogoImage} />
-        <LoginName>DeepBreath</LoginName>
+        <LoginName>DeepBreaths</LoginName>
       </LoginLogoWrapper>
       <HeroBtnWrapper>
         <Button

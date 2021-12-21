@@ -1,14 +1,14 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCr79QOHgv50H67P0g6jpRgaJyRMhmb2io",
-    authDomain: "react-app-pfa.firebaseapp.com",
-    projectId: "react-app-pfa",
-    storageBucket: "react-app-pfa.appspot.com",
-    messagingSenderId: "598111129805",
-    appId: "1:598111129805:web:fd9a1e391ec32705355984",
-    measurementId: "G-11YLNFK9HP"
-  };
+  apiKey: "AIzaSyBJ3uQR57OXscxW1zCXHClhX15vspYwCRg",
+  authDomain: "pfa-react-app.firebaseapp.com",
+  projectId: "pfa-react-app",
+  storageBucket: "pfa-react-app.appspot.com",
+  messagingSenderId: "909845294811",
+  appId: "1:909845294811:web:a89df9c144ae4457cee6fe",
+  measurementId: "G-K5TTPGFY4H"
+};
 
   const firebaseApp = firebase.initializeApp(firebaseConfig);
   const db = firebaseApp.firestore();
